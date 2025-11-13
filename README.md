@@ -1,0 +1,1 @@
+# corse_structure_sql
